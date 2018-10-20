@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+#
 typedef struct Tipo_Lista Lista;
 
 struct Tipo_Lista{
